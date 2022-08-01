@@ -41,7 +41,7 @@ Users should be able to:
 
 ## Author
 - Benjamin Mancuello
-- Website - [Add your name here](https://www.your-site.com)
+- Linkedin- [Benjamin](https://www.linkedin.com/in/benjamin-mancuello-34645a208)
 - Frontend Mentor - [@Mancux2premium](https://www.frontendmentor.io/profile/Mancux2premium)
 
 
