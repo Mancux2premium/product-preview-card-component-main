@@ -4,21 +4,13 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Table of contents
 
-- [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+  - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Overview
 
 ### The challenge
 
@@ -28,8 +20,7 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-
-![](./images/screenshot.JPG)
+![](images/screenshot.jpg)
 
 
 ### Links
@@ -49,7 +40,7 @@ Users should be able to:
 
 
 ## Author
-
+- Benjamin Mancuello
 - Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@Mancux2premium](https://www.frontendmentor.io/profile/Mancux2premium)
 
